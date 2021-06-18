@@ -12,8 +12,8 @@ Some of these projects are school projects, some are for fun, most are machine l
 
 - A [Neural Style Transfer](https://github.com/thomktz/style-transfer) algorithm generates images similar to one image but in the style of another
 
-![koolaskyline](https://user-images.githubusercontent.com/60552083/122293483-5730ec00-cef7-11eb-9532-d0ab33ac548e.png)
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/60552083/122293499-5d26cd00-cef7-11eb-9ceb-fedb6cade3dd.gif)
-![02015](https://user-images.githubusercontent.com/60552083/122293581-72036080-cef7-11eb-94b1-99ac2289e21d.png)
+![starrytown](https://user-images.githubusercontent.com/60552083/122601543-bc105180-d071-11eb-9824-6e2f751ec5b9.png)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/60552083/122601550-bdda1500-d071-11eb-9c82-088890d407c3.gif)
+![0059](https://user-images.githubusercontent.com/60552083/122601560-c4688c80-d071-11eb-9c16-cd3077381323.png)
 
 Contact : thomas @ kientz . net
