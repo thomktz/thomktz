@@ -17,9 +17,10 @@ Here is a mix of school projects and projects I did for fun
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/60552083/122601550-bdda1500-d071-11eb-9c82-088890d407c3.gif)
 ![0059](https://user-images.githubusercontent.com/60552083/122601560-c4688c80-d071-11eb-9c16-cd3077381323.png)
 
-- A program to generate [zooms on the Mandelbrot set](https://github.com/thomktz/Mandelbrot) using interpolation for a faster rendering
+- A C++-based [Python package](https://github.com/thomktz/Cpp-Mandelbrot) to quickly render the Mandelbrot set (Average stripe coloring)
 
-https://user-images.githubusercontent.com/60552083/116859732-c03af980-ac00-11eb-9dd2-e1c49968f910.mp4
+![nice_spiral](https://user-images.githubusercontent.com/60552083/142727807-2a692466-94f0-4b03-a1aa-7f84cca7d318.jpeg)
+
 
 
 Contact : thomas @ kientz . net
