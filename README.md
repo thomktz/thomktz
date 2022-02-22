@@ -3,6 +3,10 @@
 Student at ENSAE Paris.
 Here is a mix of school projects and projects I did for fun
 
+- A [C++ project]{https://github.com/g0bel1n/Avengers_AntGame} simulating ant colonies. Optimisation was my main contribution.
+
+- A [Statistics research project]{https://github.com/g0bel1n/VIX_predictions}: Applying various ML models to forecast variations in the VIX index
+
 - A [Variational Autoencoder](https://github.com/thomktz/VAE) I implemented, can generate and modify faces with sliders.
 
 ![](https://github.com/thomktz/VAE/blob/main/sliders_random.PNG)
