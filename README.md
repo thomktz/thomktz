@@ -1,19 +1,32 @@
-### Thomas KIENTZ
+# Thomas KIENTZ
 
-Student at ENSAE Paris.
-Here is a mix of school projects and projects I did for fun
+Penultimate year student at ENSAE Paris.
+
+### Hackathons/coding competitions:
+- 1st place (->[repo](https://github.com/vdelale/Hackathon-ENSAE-2022)) in the Solidarity Hackathon 2022 ([DataForGood](https://dataforgood.fr) & [Eleven](https://eleven-strategy.com)): measuring gender inequalities in cinema using AI.
+- 1st place (->[repo](https://github.com/KnSCode/hackathion-hi-paris)) in the AI & sustainability Hackathon 2022 (HEC Paris & Institut Polytechnique de Paris): Evaluating the carbon emissions of the daily commutes of a company.
+
+### School projects
+
+
+- An [Applied Statistics research project](https://github.com/g0bel1n/VIX_predictions) in which we developped a pipeline for the easy implementation of ensemble models in a pipeline (to forecast variations in the VIX index)
+<img width="885" alt="Screenshot 2022-04-27 at 17 59 59" src="https://user-images.githubusercontent.com/60552083/165638298-7f5df03e-781d-4884-ab46-06702be6a2fe.png">
+
+- A [Convolutional Neural Network](https://github.com/thomktz/Projet-1A) used to translate drawings into LaTeX, with a `pygame` GUI: 
+
+![](https://user-images.githubusercontent.com/60552083/119516823-5c2ad180-bd77-11eb-9172-6e9a1bd23307.gif)
 
 - A [C++ project](https://github.com/g0bel1n/Avengers_AntGame) simulating ant colonies. Optimisation was my main contribution.
 
-- A [Statistics research project](https://github.com/g0bel1n/VIX_predictions): Applying various ML models to forecast variations in the VIX index
+### School projects
+
+
 
 - A [Variational Autoencoder](https://github.com/thomktz/VAE) I implemented, can generate and modify faces with sliders.
 
 ![](https://github.com/thomktz/VAE/blob/main/sliders_random.PNG)
 
-- A [Convolutional Neural Network](https://github.com/thomktz/Projet-1A) used to translate drawings into LaTeX, with a `pygame` GUI: 
 
-![](https://user-images.githubusercontent.com/60552083/119516823-5c2ad180-bd77-11eb-9172-6e9a1bd23307.gif)
 
 - A [Neural Style Transfer](https://github.com/thomktz/style-transfer) algorithm generates images similar to one image but in the style of another
 
