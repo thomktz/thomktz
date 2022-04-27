@@ -9,7 +9,7 @@ Penultimate year student at ENSAE Paris.
 ### School projects
 
 
-- An [Applied Statistics research project](https://github.com/g0bel1n/VIX_predictions) in which we developped a pipeline for the easy implementation of ensemble models in a pipeline (to forecast variations in the VIX index)
+- An [Applied Statistics research project](https://github.com/g0bel1n/TinyAutoML) in which we developped a pipeline for the easy implementation of ensemble models in a pipeline (to forecast variations in the VIX index)
 <img width="885" alt="Screenshot 2022-04-27 at 17 59 59" src="https://user-images.githubusercontent.com/60552083/165638298-7f5df03e-781d-4884-ab46-06702be6a2fe.png">
 
 - A [Convolutional Neural Network](https://github.com/thomktz/Projet-1A) used to translate drawings into LaTeX, with a `pygame` GUI: 
