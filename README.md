@@ -3,8 +3,8 @@
 Penultimate year student at ENSAE Paris.
 
 ### Hackathons/coding competitions:
-- 1st place (->[repo](https://github.com/vdelale/Hackathon-ENSAE-2022)) in the Solidarity Hackathon 2022 ([DataForGood](https://dataforgood.fr) & [Eleven](https://eleven-strategy.com)): measuring gender inequalities in cinema using AI.
-- 1st place (->[repo](https://github.com/KnSCode/hackathion-hi-paris)) in the AI & sustainability Hackathon 2022 (HEC Paris & Institut Polytechnique de Paris): Evaluating the carbon emissions of the daily commutes of a company.
+- 1st place ([repo](https://github.com/vdelale/Hackathon-ENSAE-2022)) in the Solidarity Hackathon 2022 ([DataForGood](https://dataforgood.fr) & [Eleven](https://eleven-strategy.com)): measuring gender inequalities in cinema using AI.
+- 1st place ([repo](https://github.com/KnSCode/hackathion-hi-paris)) in the AI & sustainability Hackathon 2022 (HEC Paris & Institut Polytechnique de Paris): Evaluating the carbon emissions of the daily commutes of a company.
 
 ### School projects
 
