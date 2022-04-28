@@ -18,7 +18,7 @@ Penultimate year student at ENSAE Paris.
 
 - A [C++ project](https://github.com/g0bel1n/Avengers_AntGame) simulating ant colonies. Optimisation was my main contribution.
 
-### School projects
+### Personal projects
 
 
 
@@ -40,4 +40,7 @@ Penultimate year student at ENSAE Paris.
 
 
 
-Contact : thomas @ kientz . net
+Contact : 
+```python
+"".join("thomas&.&kientz&@&ensae&.&fr".split("&"))
+```
