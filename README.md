@@ -16,7 +16,7 @@ Gap year student at ENSAE Paris.
 
 ![](https://user-images.githubusercontent.com/60552083/119516823-5c2ad180-bd77-11eb-9172-6e9a1bd23307.gif)
 
-- A [C++ project](https://github.com/g0bel1n/Avengers_AntGame) simulating ant colonies. Optimisation was my main contribution.
+- A [C++ project](https://github.com/g0bel1n/Avengers_AntGame) simulating ant colonies for optimal path-finding. Optimisation was my main contribution.
 
 ### Personal projects
 
