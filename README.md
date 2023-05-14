@@ -2,7 +2,7 @@
 
 Gap year student at ENSAE Paris.
 
-<h2>🏆 Achievements</h2>
+<h2>🏆 Coding competitions - Hackathons</h2>
 <ul>
   <li>🥇 1st place in the ENSAE Finance society x Ostum Asset Management 2022-2023 Hackathon, focusing on Recurrent Reinforcement Learning for portfolio optimization.</li>
   <li>🥇 1st place in the 2021-2022 Solidarity Hackathon (<a href="https://dataforgood.fr">DataForGood</a> & <a href="https://eleven-strategy.com">Eleven</a>), where we measured gender inequalities in cinema using AI. <a href="https://github.com/vdelale/Hackathon-ENSAE-2022">See our project here</a>.</li>
