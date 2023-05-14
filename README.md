@@ -34,7 +34,7 @@ Gap year student at ENSAE Paris.
 <p>
   Implemented a Variational Autoencoder capable of generating and modifying faces with sliders. <a href="https://github.com/thomktz/VAE">Check it out here</a>.
 </p>
-<img src="https://github.com/thomktz/VAE/blob/main/sliders_random.PNG">
+<img src="https://github.com/thomktz/VAE/blob/main/results/sliders_random.PNG">
 
 <h3>Neural Style Transfer</h3>
 <p>
