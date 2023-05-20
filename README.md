@@ -1,4 +1,4 @@
-# Thomas KIENTZ
+# Thomas Kientz
 
 Gap year student at ENSAE Paris.
 
