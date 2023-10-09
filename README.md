@@ -2,14 +2,14 @@
 
 Gap year student at ENSAE Paris.
 
-<h2>🏆 Coding competitions - Hackathons</h2>
+<h2>Coding competitions - Hackathons</h2>
 <ul>
   <li>🥇 1st place in the ENSAE Finance society x Ostum Asset Management 2022-2023 Hackathon, focusing on Recurrent Reinforcement Learning for portfolio optimization.</li>
   <li>🥇 1st place in the 2021-2022 Solidarity Hackathon (<a href="https://dataforgood.fr">DataForGood</a> & <a href="https://eleven-strategy.com">Eleven</a>), where we measured gender inequalities in cinema using AI. <a href="https://github.com/vdelale/Hackathon-ENSAE-2022">See our project here</a>.</li>
   <li>🥇 1st place in the AI & sustainability 2021-2022 Hackathon (HEC Paris & Institut Polytechnique de Paris), where we evaluated the carbon emissions of the daily commutes of a company. <a href="https://github.com/KnSCode/hackathion-hi-paris">See our project here</a>.</li>
 </ul>
 
-<h2>🏫 School Projects</h2>
+<h2>School Projects</h2>
 
 <h3>Applied Statistics Research Project</h3>
 <p>
@@ -28,7 +28,7 @@ Gap year student at ENSAE Paris.
   Simulated ant colonies for optimal path-finding in C++. Optimization was my main contribution. <a href="https://github.com/g0bel1n/Avengers_AntGame">Check it out here</a>.
 </p>
 
-<h2>🎨 Personal Projects</h2>
+<h2>Personal Projects</h2>
 
 <h3>Variational Autoencoder</h3>
 <p>
