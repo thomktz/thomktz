@@ -56,9 +56,3 @@ Gap year student at ENSAE Paris.
   Created a C++-based Python package to quickly render the Mandelbrot set (Average stripe coloring). <a href="https://github.com/thomktz/Cpp-Mandelbrot">Check it out here</a>.
 </p>
 <img src="https://user-images.githubusercontent.com/60552083/142727807-2a692466-94f0-4b03-a1aa-7f84cca7d318.jpeg" width=500>
-
-
-Contact : 
-```python
-"".join("thomas&.&kientz&@&ensae&.&fr".split("&"))
-```
