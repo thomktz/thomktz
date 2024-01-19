@@ -1,6 +1,6 @@
 # Thomas Kientz
 
-Gap year student at ENSAE Paris.
+Master's student at ENSAE Paris.
 
 <h2>Coding competitions - Hackathons</h2>
 <ul>
