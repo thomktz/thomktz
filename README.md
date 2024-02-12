@@ -28,7 +28,7 @@ Master's student at ENSAE Paris.
 
 <h3>Convolutional Neural Network Project</h3>
 <p>
-  Created a Convolutional Neural Network used to translate drawings into LaTeX, with a pygame GUI. <a href="https://github.com/thomktz/Projet-1A">Check it out here</a>.
+  Created a Convolutional Neural Network used to translate drawings into LaTeX, with a pygame GUI. <a href="https://github.com/thomktz/Projet-1A">Check it out here</a>. <it>(Not a lot of true formulas I could write with the subset of characters I included...)</it>
 </p>
 <img src="https://user-images.githubusercontent.com/60552083/119516823-5c2ad180-bd77-11eb-9172-6e9a1bd23307.gif">
 
@@ -37,13 +37,11 @@ Master's student at ENSAE Paris.
   Simulated ant colonies for optimal path-finding in C++. Optimization was my main contribution. <a href="https://github.com/g0bel1n/Avengers_AntGame">Check it out here</a>.
 </p>
 
-<h2>Personal Projects</h2>
-
-<h3>Variational Autoencoder</h3>
+<h3>Mandelbrot Set Renderer</h3>
 <p>
-  Implemented a Variational Autoencoder capable of generating and modifying faces with sliders. <a href="https://github.com/thomktz/VAE">Check it out here</a>.
+  Created a C++-based Python package to quickly render the Mandelbrot set with an advanced coloring algorithm. <a href="https://github.com/thomktz/Cpp-Mandelbrot">Check it out here</a>.
 </p>
-<img src="https://github.com/thomktz/VAE/blob/main/results/sliders_random.PNG">
+<img src="https://user-images.githubusercontent.com/60552083/142727807-2a692466-94f0-4b03-a1aa-7f84cca7d318.jpeg" width=500>
 
 <h3>Neural Style Transfer</h3>
 <p>
@@ -60,8 +58,4 @@ Master's student at ENSAE Paris.
 <br>
 
 
-<h3>Mandelbrot Set Renderer</h3>
-<p>
-  Created a C++-based Python package to quickly render the Mandelbrot set (Average stripe coloring). <a href="https://github.com/thomktz/Cpp-Mandelbrot">Check it out here</a>.
-</p>
-<img src="https://user-images.githubusercontent.com/60552083/142727807-2a692466-94f0-4b03-a1aa-7f84cca7d318.jpeg" width=500>
+
