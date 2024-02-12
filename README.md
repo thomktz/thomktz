@@ -9,7 +9,16 @@ Master's student at ENSAE Paris.
   <li>🥇 1st place in the AI & sustainability 2021-2022 Hackathon (HEC Paris & Institut Polytechnique de Paris), where we evaluated the carbon emissions of the daily commutes of a company. <a href="https://github.com/KnSCode/hackathion-hi-paris">See our project here</a>.</li>
 </ul>
 
-<h2>School Projects</h2>
+<h2>Projects</h2>
+
+<h3>On the effect of removing the background of training images in VAE and GAN performance</h3>
+<p>
+  <a href="https://github.com/thomktz/FaceAI-BGImpact">Advanced Machine Learning project</a>. Removing the background of training images to see if the models train faster, better, and if their latent spaces allowed for more interpretable control of the generated faces. Below are the effects of the first PCA vector in style space for the greyed-out and the original ("raw") model.
+</p>
+<img width="990" alt="image" src="https://github.com/thomktz/thomktz/assets/60552083/977d90c4-750c-4d02-a53b-863403c02f8c">
+<img width="990" alt="image" src="https://github.com/thomktz/thomktz/assets/60552083/9a14882e-ad92-4d38-8135-7a2ee576a2f1">
+
+
 
 <h3>Applied Statistics Research Project</h3>
 <p>
