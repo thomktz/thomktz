@@ -37,12 +37,6 @@ Master's student at ENSAE Paris.
   Simulated ant colonies for optimal path-finding in C++. Optimization was my main contribution. <a href="https://github.com/g0bel1n/Avengers_AntGame">Check it out here</a>.
 </p>
 
-<h3>Mandelbrot Set Renderer</h3>
-<p>
-  Created a C++-based Python package to quickly render the Mandelbrot set with an advanced coloring algorithm. <a href="https://github.com/thomktz/Cpp-Mandelbrot">Check it out here</a>.
-</p>
-<img src="https://user-images.githubusercontent.com/60552083/142727807-2a692466-94f0-4b03-a1aa-7f84cca7d318.jpeg" width=500>
-
 <h3>Neural Style Transfer</h3>
 <p>
   Developed a Neural Style Transfer algorithm that generates images similar to one image but in the style of another. <a href="https://github.com/thomktz/style-transfer">Check it out here</a>.
