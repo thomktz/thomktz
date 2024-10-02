@@ -1,7 +1,5 @@
 # Thomas Kientz
 
-Quant Researcher at [QRT](https://www.qube-rt.com)
-
 Below are projects from my studies at [ENSAE Paris](https://www.ensae.fr/en)
 
 <h2>Coding competitions - Hackathons</h2>
